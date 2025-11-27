@@ -1,0 +1,10 @@
+#LWP-Cookies-2.0
+Set-Cookie3: WMF-Last-Access="17-Nov-2025"; path="/"; domain="commons.wikimedia.org"; path_spec; secure; expires="2025-12-19 00:00:00Z"; HttpOnly=None; version=0
+Set-Cookie3: NetworkProbeLimit="0.001"; path="/"; domain="commons.wikimedia.org"; path_spec; secure; expires="2025-11-17 07:35:03Z"; SameSite=None; version=0
+Set-Cookie3: commonswikiSession=k4tg6fnm26e8hk1c1ib499fmtoegop72; path="/"; domain="commons.wikimedia.org"; path_spec; secure; discard; HttpOnly=None; SameSite=None; version=0
+Set-Cookie3: commonswiki_BPsession=ulbo9kpqim74137a917pl5fpghdt9joa; path="/"; domain="commons.wikimedia.org"; path_spec; secure; discard; HttpOnly=None; version=0
+Set-Cookie3: loginnotify_prevlogins="2025-dhcjlc-h6t0p1a6vpn34wklilxw1oqawc6ah3q"; path="/"; domain="commons.wikimedia.org"; path_spec; secure; expires="2026-05-16 06:35:05Z"; HttpOnly=None; version=0
+Set-Cookie3: cpPosIndex="2%401763361305%23d6fb86e7a02e767b866726c0d775400c"; path="/"; domain="commons.wikimedia.org"; path_spec; secure; expires="2025-11-17 06:35:15Z"; HttpOnly=None; version=0
+Set-Cookie3: UseDC=master; path="/"; domain="commons.wikimedia.org"; path_spec; secure; expires="2025-11-17 06:35:15Z"; HttpOnly=None; version=0
+Set-Cookie3: GeoIP="IN:CG:Raipur:21.23:81.63:v4"; path="/"; domain=".wikimedia.org"; path_spec; domain_dot; secure; discard; version=0
+Set-Cookie3: WMF-Uniq=e3HlYCqfFF8OuuzjdCiUtgKuAAEBAFvdZUg3OLzP2zIere7kl55EmsBU05K_yyKz; path="/"; domain=".commons.wikimedia.org"; path_spec; secure; expires="2026-11-17 00:00:00Z"; HttpOnly=None; SameSite=None; version=0
